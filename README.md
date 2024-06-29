@@ -1,4 +1,5 @@
 # Short-URL Theme - CodeCrafter-TL-x-html
+[![forthebadge](https://forthebadge.com/images/featured/featured-uses-html.svg)](https://forthebadge.com)
 
 ## Overview/概述
 
