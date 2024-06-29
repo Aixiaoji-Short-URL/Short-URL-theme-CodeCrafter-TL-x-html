@@ -12,4 +12,4 @@
 
 2.本主题灵感/部分代码来源于https://github.com/CodeCrafter-TL/x-html，感谢CodeCrafter-TL！
 
-3.如果你要安装此主题：请先安装“https://github.com/orgs/Aixiaoji-Short-URL/repositories”后再替换对应文件！
+3.如果你要安装此主题：请先安装 “https://github.com/orgs/Aixiaoji-Short-URL/repositories” [“https://github.com/orgs/Aixiaoji-Short-URL/repositories”](https://github.com/orgs/Aixiaoji-Short-URL/repositories)。后再替换对应文件！
